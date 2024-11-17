@@ -16,7 +16,8 @@ The objective of this project is to classify songs into genres based on their ly
 
 ## Repository Structure
 - `notebooks/`: Jupyter notebooks for exploratory data analysis and model training.
-- `report.pdf': The report of the project.
+- `report.pdf`: The report of the project.
+- `HLT_Presentation.pdf`: The slides of the presentation
 ## Models and Experiments
 
 We utilized several machine learning and deep learning models including:
